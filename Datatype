@@ -1,0 +1,55 @@
+1. int===10,20,30
+2. float===10.2,63.5
+3. complex
+4. Bool
+5. string
+6. bytarry
+7. list
+8. tuple
+9. set
+10. frozenset
+11.doct
+12.None
+
+
+
+
+
+
+
+
+
+1.int:
+________________________
+integer values
+10  20 30 
+
+long data type not avaliable in python3
+1.Decimal
+2.Binary form
+3.Octal form
+4.Hexagonal
+
+
+
+
+
+immutability/ mutability
+__________________________
+once we created the
+
+int======> 0 to 256
+bool======>always
+str=======>always
+flosat
+complex
+
+
+
+
+
+
+
+list
+___________
+insertion order  should be preserved and duplicate are allowed

@@ -1,0 +1,1 @@
+print('b is greatre than a and c',"and  value of b is",b)

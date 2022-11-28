@@ -1,0 +1,98 @@
+python is a high level language.
+Guido Van Rasson in 1989
+1991 dob is 20th Feb 1991
+
+
+First language-
+------------------
+
+
+1.simple and easy to learn
+2.30 keyward in python
+3.python is free / free wear and open source
+4.High level programming language(undersood by human)
+5.python is independent (write once Run anywhere)
+6.portability 
+7.python is dynamic typed programming language.(we are not required to assigned data type)
+8.Both Procedure Oriented and Object Oriented 
+9.Interpreted
+10.Extensible(use other language code)
+11.Embedded(we can use Python Programme in other language)
+12.Extensive Libarary
+
+
+
+
+Limitation
+--------------------
+1.performance is not up to the mark
+2.it not use for mobile application
+
+
+
+MYTH=======Python not suitable for Large scale enterprice application....
+
+
+Flavors of Python
+------------------
+1.CPython
+2.Iron Python
+3.Pypy
+4.RubyPython
+5.AnacondaPython
+6.Stackless(Python For Concurrency)
+
+
+
+
+Version
+--------
+Python 1.0 introduced in jan 1994
+Python 2.0 introduced in  oct 2000
+Python 3.0 introduced in dec 2008
+Long datatype in python 2 but not in python 3
+
+
+
+
+
+Identifiers
+------------
+1.Alphabet symbol(both upper case and lowere case)
+digits(0 to 9)
+underscore(_)
+1.should not start with digits
+2.case sensitive
+3.NO legth limit
+
+
+_x===== Private
+__x===== strongly Private
+__name__
+__add__
+
+
+Reserved Words
+-----------------
+33 reserved words are there
+True,False,None
+and,or,not,is
+if,else,elif
+While,for,break,continue,return,in,yield
+try,except,finally,raise,assert
+import,from,as,class,def,pass,global,nonlocal,lamda,del,with
+
+
+
+['False', 'None', 'True', '__peg_parser__', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+
+
+
+
+Note
+_________
+1.only alphabet are there
+2.except first 3 upper case are there
+
+
